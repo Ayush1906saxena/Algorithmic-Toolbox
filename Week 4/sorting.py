@@ -1,4 +1,4 @@
-# Uses python3
+
 import sys
 import random
 
